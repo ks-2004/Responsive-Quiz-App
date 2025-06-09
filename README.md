@@ -19,21 +19,6 @@ This project demonstrates the use of **Advanced CSS Styling** and **JavaScript I
 
 ---
 
-## 🔧 How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/ks-2004/Responsive-Quiz-App.git
-````
-
-2. **Navigate to the folder**:
-   ```
-
-3. **Open `index.html` in your browser**:
-
-   * You can simply open the file or use a live server extension if using VS Code.
-
----
 
 ## 📂 Project Structure
 
